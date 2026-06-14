@@ -29,7 +29,7 @@ This project helps students understand fundamental signal processing concepts su
 
 ## 📷 Output Screenshot
 
-![Signal Visualizer Output](screenshot.png)
+![Signal Visualizer Output](Screenshot.png)
 
 ---
 
